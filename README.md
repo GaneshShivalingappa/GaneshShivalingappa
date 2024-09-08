@@ -2,7 +2,7 @@
   - Performance and Training Time Comparison Between Physics-Informed Neural Networks (PINNs), FEM-Enhanced Neural Networks, and FEM-Data Based Models.<br>
   - Master's thesis on FFT-Based Full Field Modeling of Crystal Plasticity in Multi-Crystal Metallic Sheets.
 
-  🔧 I have hands-on experience with Python and Julia, working extensively with packages such as numpy, matplotlib, pytorch, scipy, FEniCS, Tensor, Ferrite, Brightway2, StaticArrays, and LinearAlgebra. I’m passionate about applying theoretical knowledge to practical challenges, with a special focus on mechanics.
+  🔧 I have hands-on experience with Python and Julia, working extensively with packages such as numpy, pytorch, scipy, matplotlib, LinearAlgebra, StaticArrays, FEniCS, Tensor, Ferrite and Brightway2.
 
 
 ## 🌐 Socials:
