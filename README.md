@@ -1,8 +1,8 @@
-👋 Hi, I’m @GaneshShivalingappa<br><br>🎓 I'm currently pursuing my Master's in Computational Sciences and Engineering at TU Braunschweig, with a focus on machine learning, numerical methods, and advanced data-driven modelling techniques.<br><br>💻 My research lies at the intersection of scientific computing and machine learning, with a particular focus on mechanics. <br><br>🌟 Projects:<br><be>
+👋 Hi, I’m @GaneshShivalingappa<br><br>🎓 I'm currently pursuing my Master's in Computational Sciences and Engineering at TU Braunschweig, with a focus on numerical methods, machine learning, and advanced data-driven modelling techniques.<br><br>💻 My research lies at the intersection of scientific computing and machine learning, with a particular focus on mechanics. <br><br>🌟 Projects:<br><be>
   - Performance and Training Time Comparison Between Physics-Informed Neural Networks (PINNs), FEM-Enhanced Neural Networks, and FEM-Data Based Models.<br>
   - Master's thesis on FFT-Based Full Field Modeling of Crystal Plasticity in Multi-Crystal Metallic Sheets.
 
-  🔧 I have hands-on experience with Python and Julia, working extensively with packages such as numpy, pytorch, scipy, matplotlib, LinearAlgebra, StaticArrays, FEniCS, Tensor, Ferrite and Brightway2.
+  🔧 I have hands-on experience with Python and Julia, working extensively with packages such as numpy, pytorch, scipy, matplotlib, LinearAlgebra, StaticArrays, FEniCS, Tensor, Ferrite, and Brightway2.
 
 
 ## 🌐 Socials:
