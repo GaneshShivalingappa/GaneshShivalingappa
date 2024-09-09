@@ -1,4 +1,4 @@
-👋 Hi, I’m @GaneshShivalingappa<br><br>🎓 I'm currently pursuing my Master's in Computational Sciences and Engineering at TU Braunschweig, with a focus on numerical methods, machine learning, and advanced data-driven modelling techniques.<br><br>💻 My research lies at the intersection of scientific computing and machine learning, with a particular focus on mechanics. <br><br>🌟 Projects:<br><be>
+👋 Hi, I’m @GaneshShivalingappa<br><br>🎓 I'm currently pursuing my Master's in Computational Sciences in Engineering at TU Braunschweig, with a focus on numerical methods, machine learning, and advanced data-driven modelling techniques.<br><br>💻 My research lies at the intersection of scientific computing and machine learning, with a particular focus on mechanics. <br><br>🌟 Projects:<br><be>
   - Performance and Training Time Comparison Between Physics Informed Neural Networks (PINNs), FEM Enhanced Neural Networks (FEM-NNs), and FEM Data-Based Neural Networks (FEM-Data-NNs) models.<br>
   - Master's thesis on FFT-Based Full Field Modeling of Crystal Plasticity in Multi-Crystal Metallic Sheets.
 
