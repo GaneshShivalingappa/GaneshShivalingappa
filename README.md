@@ -1,6 +1,6 @@
 👋 Hi, I’m @GaneshShivalingappa<br><br>🎓 I've completed my master's degree in Computational Sciences and Engineering at TU Braunschweig, with a focus on numerical methods, machine learning, and advanced data-driven modeling techniques.<br><br>💻 My research lies at the intersection of scientific computing and machine learning. <br><br>🌟 Projects:<br><be>
   - Performance and training time comparison between physics-informed neural networks (PINNs), FEM-enhanced neural networks (FEM-NNs), and FEM data-based neural networks (FEM-Data-NNs) models.<br>👉 [DOI: 10.58286/29583](https://doi.org/10.58286/29583)
-  - Master's thesis on FFT-based full-field modeling of crystal plasticity in multi-crystal metallic sheets.
+  - Master's thesis on FFT-based full-field modeling of crystal plasticity in multi-crystal metallic sheets
 
   🔧 I work extensively with Python, Julia, and C++, using libraries such as NumPy, PyTorch, SciPy, Matplotlib, LinearAlgebra, StaticArrays, FEniCS, Tensor, and Ferrite.
 
