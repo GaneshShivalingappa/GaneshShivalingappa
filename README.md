@@ -1,9 +1,38 @@
-👋 Hi, I’m @GaneshShivalingappa<br><br>🎓 I've completed my master's degree in Computational Sciences and Engineering at TU Braunschweig, with a focus on numerical methods, machine learning, and advanced data-driven modeling techniques.<br><br>💻 My research lies at the intersection of scientific computing and machine learning. <br><br>🌟 Projects:<br><be>
-  - Performance and training time comparison between physics-informed neural networks (PINNs), FEM-enhanced neural networks (FEM-NNs), and FEM data-based neural networks (FEM-Data-NNs) models.<br>👉 [DOI: 10.58286/29583](https://doi.org/10.58286/29583)
-  - Master's thesis on FFT-based full-field modeling of crystal plasticity in multi-crystal metallic sheets
+🔬 <b>Scientific Machine Learning | Computational Scientist | Scientific Software</b>
 
-  🔧 I work extensively with Python, Julia, and C++, using libraries such as NumPy, PyTorch, SciPy, Matplotlib, LinearAlgebra, StaticArrays, FEniCS, Tensor, and Ferrite.
+🎓 Research Assistant working at the intersection of scientific computing, computational mechanics, and machine learning.
 
+💻 I develop numerical and machine-learning methods for scientific simulation, with a focus on full-field modeling, surrogate modeling, digital material twins, uncertainty quantification, and high-performance scientific computing.
+
+🌟 <b>Selected Work & Projects</b>
+
+- 🧠 <b>Scientific Machine Learning for Material Model Calibration</b><br>
+  Comparative study of Physics-Informed Neural Networks (PINNs), FEM-enhanced Neural Networks (FEM-NNs), and FEM-data-based Neural Networks (FEM-Data-NNs) for material parameter identification and full-field prediction.<br>
+  👉 <a href="https://doi.org/10.58286/29583">Publication: DOI 10.58286/29583</a>
+
+- ⚙️ <b>FFT-Based Full-Field Modeling</b><br>
+  Developed and extended FFT-based full-field solvers for anisotropic elasticity, elasto-plasticity, and crystal plasticity in heterogeneous polycrystalline materials.
+
+- 🧩 <b>Scientific Software & Research Code</b><br>
+  Contributed to scientific-computing libraries and research codebases in Julia and C++, including implementations and extensions not yet publicly released.
+
+- 🚀 <b>Computational Mechanics & HPC</b><br>
+  Development of computational workflows for digital material twins, crystal plasticity, uncertainty quantification, and parallel scientific simulations.
+
+🛠️ <b>Technical Focus</b>
+
+<b>Programming:</b> Python · Julia · C++
+
+<b>Scientific Computing:</b> NumPy · SciPy · FEniCS · Ferrite.jl ·
+LinearAlgebra · StaticArrays.jl
+
+<b>Machine Learning:</b> PyTorch · Physics-Informed ML · Neural Networks ·
+Surrogate Modeling
+
+<b>Numerical Methods:</b> FEM · FFT-Based Solvers · PDEs · Constitutive
+Modeling · Full-Field Modeling · Uncertainty Quantification
+
+<b>HPC & Tools:</b> Git · Docker · Singularity · SLURM · LaTeX · ParaView
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshshivalingappa) 
