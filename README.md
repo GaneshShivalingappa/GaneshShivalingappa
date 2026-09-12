@@ -1,4 +1,4 @@
-🔬 <b> Computational Scientist | Scientific computing | Scientific Machine Learning </b>
+🔬 <b> Computational Scientist | Scientific Computing | Scientific Machine Learning </b>
 
 🎓 Research Assistant working at the intersection of scientific computing, computational mechanics, and machine learning.
 
