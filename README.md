@@ -4,7 +4,7 @@
 
 💻 I develop numerical and machine-learning methods for scientific simulation, with a focus on full-field modeling, surrogate modeling, digital material twins, uncertainty quantification, and high-performance scientific computing.
 
-🌟 <b>Selected Work & Projects</b>
+🌟 <b> Projects</b>
 
 - 🧠 <b>Scientific Machine Learning for Material Model Calibration</b><br>
   Comparative study of Physics-Informed Neural Networks (PINNs), FEM-enhanced Neural Networks (FEM-NNs), and FEM-data-based Neural Networks (FEM-Data-NNs) for material parameter identification and full-field prediction.<br>
