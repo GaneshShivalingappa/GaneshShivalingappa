@@ -1,5 +1,3 @@
-🔬 <b> Computational Scientist | Scientific Computing | Scientific Machine Learning </b>
-
 🎓 Research Assistant working at the intersection of scientific computing, computational mechanics, and machine learning.
 
 💻 I develop numerical and machine-learning methods for scientific simulation, with a focus on full-field modeling, surrogate modeling, digital material twins, uncertainty quantification, and high-performance scientific computing.
